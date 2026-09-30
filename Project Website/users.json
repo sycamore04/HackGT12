@@ -1,0 +1,22 @@
+{
+  "admin": {
+    "password": "password123",
+    "email": "admin@example.com",
+    "created": "2024-01-01"
+  },
+  "user1": {
+    "password": "mypassword",
+    "email": "user1@example.com",
+    "created": "2024-01-01"
+  },
+  "demo": {
+    "password": "demo123",
+    "email": "demo@example.com",
+    "created": "2024-01-01"
+  },
+  "sathe": {
+    "password": "an0$KM1v",
+    "email": "athellisireesha2@gmail.com",
+    "created": "2025-09-27 14:50:16"
+  }
+}
